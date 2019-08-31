@@ -1,0 +1,24 @@
+{
+    "bot_token": "",
+    "client_id": "",
+    "client_secret": "",
+    "app_uri": "http://DOMINIO_OU_IP/#/",
+    "redirect_uri": "http://DOMINIO_OU_IP:3000/api/discord/callback",
+    "guildId": "",
+    "allowedRole": "",
+    "playerRole": "",
+    "guestRole": "",
+    "emojiApproved": "",
+    "emojiDenied": "",
+    "whitelistResultChannel": "",
+    "webhook": {
+        "id": "",
+        "token": ""
+    },
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "db": "whitelist"
+    }
+}
